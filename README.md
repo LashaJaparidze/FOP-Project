@@ -28,3 +28,7 @@ Test algorithms:
 • Multiplication Table
 
 • Nth Fibonacci Number
+
+
+
+We have providead a simple interpreter in SolutionN1...

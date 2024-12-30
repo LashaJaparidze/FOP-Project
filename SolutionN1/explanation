@@ -1,10 +1,36 @@
 our code is capable of doing some basic kotlin problems -->
 
-1-/*=- (SUM)
-2-sumOfFirstN
-3-factorial
-GCD
+1-/*=- (SUM) {
+val a = x;
+            val b = y;
+            var sum = a +( + - / or * ) b;
+}
+
+2-sumOfFirstN  {
+var sum = 1 + 2 + 3... + N
+
+}
+3-factorial {
+val a = X
+val c = factorial(a)
+}
+
+GCD {
+val d = gcd(a, b);
+}
+
 Reversenumber
-Isprime
-sumofdigits
+{val a = XYZ
+ val k = reverse(a);
+  }
+
+Isprime {
+ val P = prime(a);
+}
+sumofdigits {
+val a = x;
+            val b = y;
+            var sum = a +( + - / or * ) b;
+}
 ...
+

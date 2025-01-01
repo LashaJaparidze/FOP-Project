@@ -30,5 +30,3 @@ Test algorithms:
 • Nth Fibonacci Number
 
 
-
-We have providead a simple interpreter in SolutionN1...
